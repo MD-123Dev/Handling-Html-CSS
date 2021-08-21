@@ -1,0 +1,39 @@
+.style-model{
+   height:350px;
+   background-color: rgb(236, 140, 140);
+}
+
+.sty-email-lab,
+.sty-pasw-lab {
+    font-size: 20px;
+    text-decoration: underline;
+    color: brown;
+
+}
+
+.btn-sbt {
+    background-color: rgb(238, 157, 157);
+    color: rgb(18, 57, 139);
+    margin-left: 450px;
+
+}
+
+.btn-sbt:hover {
+    background-color: rgb(187, 14, 106);
+    color: rgb(239, 241, 245);
+}
+
+/*input*/
+.form-control {
+    border: 1px solid black;
+    border-radius: 25px;
+
+}
+
+
+.btn-styl{
+    background-color: burlywood;
+    color:black;
+    margin-top: 30px;
+    margin-left: 120px;
+}

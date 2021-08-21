@@ -1,0 +1,17 @@
+.btn-style-a{
+    
+   /*must reove class boostrap if make you class because ستاتر على عمل كلاس بك بكفاءة ستضهر الامور لم تفعلها*/
+    width: 405px;
+    color:rgba(0, 0, 0, 0.794);
+    background-color: aliceblue;
+    font-size: 25px;
+    text-align: center;
+    border-color: black;
+    border-style: solid;
+    border-radius: 23px;
+   
+}
+
+.btn-style-a:hover{
+     background-color: rgb(175, 3, 83);
+}

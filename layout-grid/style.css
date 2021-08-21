@@ -1,0 +1,62 @@
+.pos-styl {
+    margin-left: 520px;
+}
+
+.sty-about,
+.sty-home,
+.sty-princ {
+
+    font-size: 25px;
+}
+
+.nav-link {
+    color: rgb(77, 67, 124);
+}
+
+.nav-link:hover {
+    color: rgb(105, 0, 65);
+    text-decoration: underline;
+
+}
+
+.sty-navb {
+    background-color: rgb(15, 15, 15);
+}
+
+.sty-txt-user {
+    color: rgb(62, 44, 144);
+    text-decoration: none;
+    font-size: 21px;
+}
+
+.sty-txt-user:hover {
+    color: rgb(44, 116, 144);
+    text-decoration: none;
+}
+
+.navbar-brand {
+    color: rgb(44, 116, 144);
+    font-size: 24px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.navbar-brand:hover {
+    color: rgb(37, 112, 197);
+}
+
+body{
+    background-color:rgb(113 108 78);
+}
+
+.styl-hre{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    
+}
+
+button{
+    border-radius: 25px;
+    background-color: #727090;
+    width:125px;
+}

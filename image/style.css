@@ -1,0 +1,27 @@
+
+.img-text{
+    position:absolute;
+    top: 690px;
+    left: 550px;
+    color:rgb(82, 8, 8);
+    font-size: 100px;
+}
+
+.img-btn1 {
+    position: absolute;
+    top: 810px;
+    left: 680px;
+    width: 120px;
+    height: 40px;
+    background-color: bisque;
+   
+}
+.img-btn2 {
+    position: absolute;
+    top: 810px;
+    left: 820px;
+    width: 120px;
+    height: 40px;
+    background-color: bisque;
+
+}

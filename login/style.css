@@ -1,0 +1,50 @@
+.sty-email-lab,
+.sty-pasw-lab {
+    font-size: 20px;
+    text-decoration: underline;
+    color: brown;
+
+}
+
+.btn-sbt {
+    background-color: rgb(246, 245, 245);
+    color: rgb(18, 57, 139);
+    margin-left: 140px;
+    width: 160px;
+
+}
+
+.btn-sbt:hover {
+    background-color: rgb(187, 14, 106);
+    color: rgb(239, 241, 245);
+}
+
+/*input*/
+.form-control {
+    border: 1px solid black;
+    border-radius: 25px;
+    margin-left: 24px;
+
+}
+
+.img-icon{
+  font-size: 150px;
+  margin-left: 140px;
+ 
+}
+
+.styl-login{
+    border:1px solid black;
+    border-radius:25px;
+     width:450px;
+     height:420px
+}
+
+.sty-form{
+    width:350px;
+    height:320px
+}
+
+body{
+    background-color: rgb(66, 63, 63);
+}

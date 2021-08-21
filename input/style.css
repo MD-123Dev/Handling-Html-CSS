@@ -1,0 +1,112 @@
+
+.text-sty{
+    color:black;
+    border: 2px solid rgb(32, 8, 54);
+    border-radius: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+.lab-sty-Name{
+    color:rgb(64, 64, 158);
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+/**/
+.chek-style {
+    background-color: rgb(238, 81, 81);
+    width: 20px;
+    height: 20px;
+}
+
+/**/
+.styl-cmbox{
+    border-radius: 15px;
+    background-color: cyan;
+    width: 150px;
+    height:25px;
+    padding-left: 55px;
+    border: 2px solid rgb(179, 59, 59);
+    
+}
+
+.styl-option{
+    background-color: blanchedalmond;
+}
+
+/**/
+
+.styl-radio{
+    background-color: rgb(255, 230, 0);
+    margin-left: 5px;
+    
+}
+
+.style-lab-rd{
+    margin-left: 5px;
+    color:black;
+    font-size: 20px;
+
+}
+
+/**/
+.styl-btn-search{
+    height: 45px;
+    border-radius: 25px;
+    background-color: brown;
+    border:2px solid;
+}
+
+
+.sty-input-ser{
+     border-radius: 25px;
+    
+}
+
+.icon-style{
+    color: white;
+}
+
+/*range style */
+
+.styl-range{
+   
+}
+
+.styl-range {
+   
+    width: 100%;
+    height: 20px;
+   
+   background-color: azure;
+  
+}
+
+.styl-range:hover {
+    opacity: 1;
+    
+}
+
+.styl-range::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 20px;
+    height: 20px;
+    background: #fb0439;
+    cursor: pointer;
+}
+
+/*input with icon style*/
+.input-icon{
+    
+    color: rgb(138, 138, 138);
+    font-size: 25px;
+
+}
+
+.input-user {
+    width: 250px;
+   
+
+}

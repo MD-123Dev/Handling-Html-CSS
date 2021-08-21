@@ -1,0 +1,28 @@
+.sty-pervis{
+    border-radius: 20px;
+    background-color: rgb(150, 230, 119);
+    color:black;
+    width:61px;
+    height: 42px;
+}
+
+.sty-next{
+
+     border-radius: 20px;
+      background-color: rgb(71, 178, 211);
+       color:black;
+       width:61px;
+       height: 42px;
+}
+
+.sty-pag{
+     color:black;
+     width:61px;
+     height: 42px;
+    
+}
+.sty-pag:hover {
+   background-color: rgb(73, 226, 68);
+     
+
+}

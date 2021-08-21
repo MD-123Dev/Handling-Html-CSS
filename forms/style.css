@@ -1,0 +1,26 @@
+.sty-email-lab, .sty-pasw-lab
+{
+    font-size: 20px;
+    text-decoration: underline;
+    color: brown;
+   
+}
+
+.btn-sbt{
+   background-color: rgb(246, 245, 245);
+   color:rgb(18, 57, 139);
+   
+}
+.btn-sbt:hover {
+    background-color: rgb(187, 14, 106);
+    color: rgb(239, 241, 245);
+}
+
+/*input*/
+.form-control{
+ border: 1px solid black;
+ border-radius: 25px;
+
+}
+
+
