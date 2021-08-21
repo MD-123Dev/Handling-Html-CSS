@@ -3,7 +3,7 @@ Handling-Html-css
 
 # lien :  
 
-  https://md-123dev.github.io/Handling-Html-CSS/
+  https://md-123dev.github.io/Handling-Html-css/
 
 
 # Components : handling html and bootstrap with css : 
