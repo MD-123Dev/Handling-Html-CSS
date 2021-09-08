@@ -1,8 +1,11 @@
+body{
+    background-color: rgb(124, 33, 33);
+}
 .sty-email-lab, .sty-pasw-lab
 {
     font-size: 20px;
     text-decoration: underline;
-    color: brown;
+    color: rgb(194, 94, 94);
    
 }
 

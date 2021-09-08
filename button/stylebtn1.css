@@ -1,6 +1,8 @@
+body{
+     background-color: rgb(4, 175, 132);
+}
 .btn-style-a{
     
-   /*must reove class boostrap if make you class because ستاتر على عمل كلاس بك بكفاءة ستضهر الامور لم تفعلها*/
     width: 405px;
     color:rgba(0, 0, 0, 0.794);
     background-color: aliceblue;
