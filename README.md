@@ -24,3 +24,4 @@ Handling-Html-css
   - RadioBox
   - Card
   - Range
+  - Image
