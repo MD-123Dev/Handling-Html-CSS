@@ -1,0 +1,77 @@
+/*input 1*/
+.inputfile {/*change to ...*/
+    width: 0.1px;
+    height: 0.1px;
+    opacity: 0;
+    overflow: hidden;
+    position: absolute;
+    z-index: -1;
+    
+
+}
+
+.inputfile + label {/* style input and label */
+    font-size: 1.25em;
+    font-weight: 700;
+    color: white;
+    background-color: black;
+    display: inline-block;
+    border:2px solid rgb(0, 0, 0);
+    border-radius: 10px;
+    width: 100px;
+}
+
+.inputfile:focus + label,
+.inputfile + label:hover {
+    background-color: rgb(200, 63, 63);
+}
+
+/*input 2 */
+
+.inputfile2 {
+    /*change to ...*/
+    width: 0.1px;
+    height: 0.1px;
+    opacity: 0;
+    overflow: hidden;
+    position: absolute;
+    z-index: -1;
+
+
+}
+
+.inputfile2+label {
+    /* style input and label */
+    font-size: 1.25em;
+    font-weight: 700;
+    color: white;
+    background-color: rgb(134, 27, 27);
+    display: inline-block;
+    border: 2px solid rgb(90, 27, 27);
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
+
+.inputfile2:focus+label,
+.inputfile2+label:hover {
+    background-color: rgb(200, 63, 63);
+}
+
+.iconfile2{
+   margin-left: 30px;
+   margin-top:30px;
+   font-size: 30px;
+}
+
+/*input  3*/
+
+
+
+.inputfile3{
+
+     color:rgb(189, 189, 189);
+     background-color: rgb(155, 41, 41);
+
+}
+
