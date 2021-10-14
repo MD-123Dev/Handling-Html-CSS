@@ -25,3 +25,4 @@ Handling-Html-css
   - Card
   - Range
   - Image
+  - File Input
