@@ -1,0 +1,66 @@
+
+
+.btn-style-c {
+
+    width: 405px;
+    color: rgba(0, 0, 0, 0.794);
+    background-color: aliceblue;
+    font-size: 25px;
+    text-align: center;
+    border-color: black;
+    border-style: solid;
+    border-bottom-left-radius: 45px ;
+    border-bottom-right-radius: 45px;
+    margin-top: 20px;
+    border: 3px solid;
+
+}
+
+.btn-style-c:hover {
+    background-color: rgb(223, 236, 45);
+}
+
+.btn-style-e{
+    width: 480px;
+    color: rgba(0, 0, 0, 0.794);
+    background-color: aliceblue;
+    font-size: 25px;
+    text-align: center;
+    border-color: black;
+    border-style: solid;
+    border-bottom-left-radius: 45px;
+    margin-top: 20px;
+    border: 3px solid;
+}
+.btn-style-f {
+   width: 480px;
+   color: rgba(0, 0, 0, 0.794);
+   background-color: aliceblue;
+   font-size: 25px;
+   text-align: center;
+   border-color: black;
+   border-style: solid;
+   border-top-left-radius: 45px;
+
+   margin-top: 20px;
+   border: 3px solid;
+}
+.btn-style-d {
+    width: 480px;
+    color: rgba(0, 0, 0, 0.794);
+    background-color: aliceblue;
+    font-size: 25px;
+    text-align: center;
+    border-color: black;
+    border-style: solid;
+   
+    margin-top: 20px;
+    border: 3px solid;
+}
+
+
+.btn-style-d:hover ,
+.btn-style-f:hover ,
+.btn-style-e:hover {
+   background-color: rgb(223, 236, 45);
+}

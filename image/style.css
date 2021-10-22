@@ -13,7 +13,10 @@
     left: 680px;
     width: 120px;
     height: 40px;
-    background-color: bisque;
+    background-color: rgb(156, 142, 126);
+    border-radius: 25px;
+    border-radius: 25px;
+
    
 }
 .img-btn2 {
@@ -23,5 +26,6 @@
     width: 120px;
     height: 40px;
     background-color: bisque;
-
+    border-radius: 25px;
 }
+

@@ -1,0 +1,28 @@
+.notf {
+    background-color: rgb(255, 254, 254);
+    color: rgb(5, 91, 161);
+    text-decoration: none;
+    position: relative;
+    padding: 6px;
+    display: inline-block;
+    border-radius: 50%;
+    width:40px;
+}
+
+.notf:hover {
+    background: rgb(202, 202, 202);
+}
+
+.notf .badge {
+    position: absolute;
+    top: -10px;
+    right: -10px;
+    padding: 5px 10px;
+    border-radius: 50%;
+    background: red;
+    color: white;
+}
+
+.far.fa-bell{
+   font-size: 31px;
+}

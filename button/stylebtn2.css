@@ -9,9 +9,10 @@
     border-style: solid;
     border-radius: 23px;
     margin-top: 20px;
+    border: 3px solid;
 
 }
 
 .btn-style-b:hover {
-    background-color: rgb(223, 236, 45);
+    background-color: rgb(156, 47, 115);
 }

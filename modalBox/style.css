@@ -1,6 +1,7 @@
 .style-model{
    height:350px;
-   background-color: rgb(236, 140, 140);
+   background-color: rgb(165, 243, 91);
+   border-radius: 25px;
 }
 
 .sty-email-lab,
@@ -19,7 +20,7 @@
 }
 
 .btn-sbt:hover {
-    background-color: rgb(187, 14, 106);
+    background-color: rgb(192, 190, 54);
     color: rgb(239, 241, 245);
 }
 
@@ -32,8 +33,14 @@
 
 
 .btn-styl{
-    background-color: burlywood;
-    color:black;
+    background-color: rgb(7, 7, 7);
+    color:rgb(255, 255, 255);
     margin-top: 30px;
     margin-left: 120px;
+    padding: 15px;
+}
+
+.card{
+    padding: 25px;
+    
 }

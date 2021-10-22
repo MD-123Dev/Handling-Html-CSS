@@ -26,3 +26,5 @@ Handling-Html-css
   - Range
   - Image
   - File Input
+  - Button Notification
+  - loading 
