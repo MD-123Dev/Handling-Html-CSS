@@ -1,0 +1,63 @@
+body {
+    margin: 0;
+    background-color: #000;
+}
+
+#wrapper {/* The limits of images that can be in gried ( every click ) */
+    width: 680px;/*that */
+    position: relative;
+}
+
+#carousel {
+    overflow: auto;
+    scroll-behavior: smooth;
+    scrollbar-width: none;
+}
+
+#carousel::-webkit-scrollbar {
+    height: 0;
+}
+
+#prev,
+#next {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    background: rgb(251, 12, 12);
+    border: none;
+    padding: 8px;
+    border-radius: 50%;
+    outline: 0;
+    cursor: pointer;
+    position: absolute;
+    width:30px;
+    height:30px;
+}
+
+#prev {
+    top: 50%;
+    left: 0;
+    transform: translate(50%, -50%);
+    display: none; /*display in first none */
+}
+
+#next {
+    top: 50%;
+    right: 0;
+    transform: translate(-50%, -50%);
+}
+
+#content {  /*where exist images*/
+    display: grid;  /*for display in form grid "inline"*/
+    grid-gap: 16px; /*property defines the size of the gap between the rows and columns in a grid layout*/
+    grid-auto-flow: column; /*property controls how auto-placed items get inserted in the grid.*/
+    margin: auto;
+    box-sizing: border-box;
+}
+
+.item {/*width height image in wrapper*/
+    width: 280px;
+    height: 180px;
+    background: rgb(253, 255, 253);
+}
+
