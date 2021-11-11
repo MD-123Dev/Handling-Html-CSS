@@ -29,3 +29,5 @@ Handling-Html-css
   - Button Notification
   - loading 
   - Carousel(html-css-js)
+  - Drop Down
+  - Gallery

@@ -35,6 +35,52 @@
     background-color: blanchedalmond;
 }
 
+/*selectbox 2*/
+    .styl-selc {
+        padding: 6px;
+        box-shadow: 0 10px 20px -5px rgba(20, 50, 64, 0.76);
+        width: 115px;
+    }
+
+    #opt1:nth-child(1)  {
+        background-color: rgb(240, 237, 237);
+        font-size: 15px;   
+    }
+    #opt2:nth-child(2) {
+        background-color: rgb(221, 228, 217);
+        font-size: 15px;
+    }
+    #opt3:nth-child(3) {
+        background-color: rgb(148, 148, 148);
+    font-size: 15px;
+    }
+
+/*Drop Down*/
+
+.sty-ico {
+    padding-right: 5px;
+}
+
+.sty-menu {
+    background-color: rgb(216, 208, 208);
+    padding: 6px;
+
+}
+
+li:nth-child(1) {
+    background-color: rgb(240, 237, 237);
+    font-size: 15px;
+}
+
+li:nth-child(2) {
+    background-color: rgb(221, 228, 217);
+    font-size: 15px;
+}
+
+li:nth-child(3) {
+    background-color: rgb(148, 148, 148);
+    font-size: 15px;
+}
 /**/
 
 .styl-radio{
